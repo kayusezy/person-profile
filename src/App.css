@@ -1,0 +1,19 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile {
+  margin-top: 20px;
+}
+
+.profile img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.time {
+  margin-top: 20px;
+}
